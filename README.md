@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Yisheng 👋
 
-<!--
-**YishengSunn/YishengSunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a master student majoring in Robotics, Cognition and Intelligence at Technical University of Munich. Previously I finished my Bachelor's study at Tongji University in Mechatronics. I am a relatively late beginner for programming but I think it's never to late to start.
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🎓 Student / Tech Learner
+- 🌱 Currently learning **Linux**, **Git**, and **Docker**
+- ✍️ Writing my blog with **Jekyll + GitHub Pages**
+- 💡 I believe in continuous improvement and curiosity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** Python, C/C++, Markdown
+- **Tools:** Git, Docker, VS Code, Linux
+- **Blog Framework:** Jekyll
+
+### 🔗 Links
+- 🌐 Blog: https://yishengsunn.github.io
+- 📮 Email: sunyisheng48@gmail.com
+- 💼 GitHub: https://github.com/YishengSunn
+
+---
+
+> _"Never stop learning. Never stop thinking."_
