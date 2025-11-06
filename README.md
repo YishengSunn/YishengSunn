@@ -7,7 +7,6 @@ I began programming a bit later than many peers, but I believe that it's never t
 ### 🔭 What I'm Working On
 - Master thesis on shared autonomy between human input and machine learning methods for robotic teleoperation under unstable network delay
 - Learning **Linux**, **Git**, **ROS**, and **Docker**
-- Building my personal blog with **Jekyll + GitHub Pages**
 - Developing a habit of writing and documenting my learning
 
 
