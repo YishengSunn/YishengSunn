@@ -1,17 +1,20 @@
 # Hi, I'm Yisheng 👋
 
-I'm currently pursuing a Master's degree in Robotics, Cognition and Intelligence at the Technical University of Munich (TUM). Before that, I completed my Bachelor's degree in Mechatronics at Tongji University.
+I'm a **Software Engineer at Huawei**, dedicated to building intelligent and robust software systems. 
 
-### 🔭 What I’m Working On
+I recently graduated with a Master's degree in **Robotics, Cognition and Intelligence** from the **Technical University of Munich (TUM)**. Prior to that, I received my Bachelor's degree in Mechatronics from **Tongji University**.
 
-- Master's thesis on shared autonomy for robotic teleoperation under unstable network delay, combining human input with Gaussian Process–based trajectory prediction.
-- Building my skills in programming, AI, Linux, ROS, and embedded systems.
+### 🔭 What I’m Working On / Background
+
+- **Incoming Software Engineer** at Huawei, focusing on software development and engineering excellence.
+- **Master's Thesis (Completed):** Focused on shared autonomy for robotic teleoperation under unstable network delay, combining human input with Gaussian Process–based trajectory prediction via an optimal-control-based blending strategy.
+- **Technical Focus:** Continuously strengthening my expertise in advanced programming, AI/ML, Linux ecosystem, ROS, and embedded systems.
 
 ### 🧰 Tools & Languages
 
 | Languages | Tools | Systems |
 |----------|-------|---------|
-| Python, C/C++ | Git, Cursor | Linux, Ubuntu |
+| Python, C/C++ | Git, ROS, Codex | Linux, Ubuntu |
 
 ### 📫 Connect With Me
 
